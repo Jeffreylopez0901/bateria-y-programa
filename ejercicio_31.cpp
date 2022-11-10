@@ -1,8 +1,4 @@
-/* nombre: ejercicio_31
-autor: maycol andres juarez
-lugar : ITV
-instrucciones: divisores
-*/ 
+
 
 
 #include<iostream>
