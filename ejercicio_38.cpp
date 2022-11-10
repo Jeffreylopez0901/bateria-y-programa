@@ -1,9 +1,4 @@
-/* nombre: ejercicio_38
-autor: maycol andres juarez
-lugar : ITV
-instrucciones: segundo algoritmo
-nota: ni idea de como traducirlo a c++
-*/ 
+
 #include<iostream>
 using namespace std;
 
