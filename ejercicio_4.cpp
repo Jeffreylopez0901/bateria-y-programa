@@ -1,8 +1,4 @@
-/* nombre: ejercicio_4
-autor: maycol andres juarez
-lugar : ITV
-instrucciones: suma o producto 
-*/ 
+ 
 #include<iostream>
 #include<cmath>
 using namespace std;
