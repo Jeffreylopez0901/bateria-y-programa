@@ -1,6 +1,5 @@
-/*nombre:
-autor :
-lugar:
+/*nombre: EcuacionesApp.cpp
+autor :Jeffrey josue lopez
 instrucciones:
 */
 
@@ -75,7 +74,7 @@ string resp;
 										cout<<"e indirectamente proporcional a la resistencia"<<endl;		
 			
 											}
-						//reparar!!!!!!!!!!!!!!!!!!!!!!!!!!!!									
+															
 						break;
 						case 2:
 							cout<<" usted a elegido la ley de kirchoff,por favor indique:"<<endl;
