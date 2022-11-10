@@ -1,8 +1,4 @@
-/* nombre: ejercicio_35
-autor: maycol andres juarez
-lugar : ITV
-instrucciones: fprmula dada por el proesor
-*/ 
+
 
 #include<iostream>
 #include<cmath>
