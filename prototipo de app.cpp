@@ -26,8 +26,7 @@ string resp;
 	cout<<"hola "<<nombre<<" me presento, mi nombre es maju, asisitente virtual, yo te ayudare a encontrar la ecuacion que necesitas"<<endl;
 
 	
-		i=1;
-		do {
+		
 			cout<<"excelente, "<<nombre<<" las ecuaciones que le ofrrecemos son las siguientes: "<<endl;
 			cout<<"1- ley de ohm\n2- ley de kirchoft\n3- divisor de voltaje\n4- divisor de corriente"<<endl;
 			cin>>ecu;
@@ -146,9 +145,7 @@ string resp;
 				
 	}
 		
-			i=i+1;
 			
-		}while (i<2);
 		
 	
 
