@@ -1,8 +1,3 @@
-/* nombre: ejercicio_40
-autor: maycol andres juarez
-lugar : ITV
-instrucciones: valores a y b
-*/ 
 
 #include<iostream>
 using namespace std;
