@@ -1,8 +1,4 @@
-/* nombre: ejercicio_23
-autor: maycol andres juarez
-lugar : ITV
-instrucciones: el bar de doña chela
-*/ 
+
 #include<iostream>
 using namespace std;
 
