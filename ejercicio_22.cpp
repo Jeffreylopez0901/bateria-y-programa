@@ -1,8 +1,4 @@
-/* nombre: ejercicio_22
-autor: maycol andres juarez
-lugar : ITV
-instrucciones: años biciesto
-*/ 
+
 #include<iostream>
 using namespace std;
 
