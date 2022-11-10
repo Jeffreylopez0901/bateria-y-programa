@@ -1,5 +1,5 @@
 /* nombre: ejetrcicio_1
-autor: maycol andres juarez
+autor: 
 lugar : ITV
 instrucciones: cambia de lugar ciertos valores
 */ 
