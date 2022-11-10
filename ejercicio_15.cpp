@@ -1,8 +1,4 @@
-/* nombre: ejercicio_15
-autor: maycol andres juarez
-lugar : ITV
-instrucciones:  contraseña tuani
-*/ 
+
 #include<iostream>
 using namespace std;
 
