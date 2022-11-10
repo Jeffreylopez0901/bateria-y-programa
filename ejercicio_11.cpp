@@ -1,5 +1,5 @@
 /* nombre: ejercicio_11
-autor: maycol andres juarez
+autor: 
 lugar : ITV
 instrucciones:  el cuadrado de los primeros 9 numeros
 */ 
