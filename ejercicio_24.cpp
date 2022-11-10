@@ -1,8 +1,4 @@
-/* nombre: ejercicio_24
-autor: maycol andres juarez
-lugar : ITV
-instrucciones: ecuaciones de segundo grado
-*/ 
+
 #include<iostream>
 #include<cmath>
 using namespace std;
