@@ -1,9 +1,5 @@
 
-/* nombre: ejercicio_13
-autor: maycol andres juarez
-lugar : ITV
-instrucciones:  sumador de numeros
-*/ 
+
 #include<iostream>
 using namespace std;
 
