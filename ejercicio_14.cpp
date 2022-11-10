@@ -1,5 +1,5 @@
 /* nombre: ejercicio_14
-autor: maycol andres juarez
+autor: 
 lugar : ITV
 instrucciones:  media de numeros ingresados
 */ 
