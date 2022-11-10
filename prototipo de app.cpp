@@ -1,9 +1,8 @@
 /*nombre: EcuacionesApp.cpp
 autor :Jeffrey josue lopez
-instrucciones:
+instrucciones:  Esta aplicacion puede  ayudarte con las principales ecuaciones que veras en la carrera de  electronica 
 */
 
-//idea basica de las principales ecuaciones utilizadas durante lo que va en la carrera
 
 #include<math.h>
 #include<iostream>
