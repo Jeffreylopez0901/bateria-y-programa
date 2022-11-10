@@ -1,8 +1,4 @@
-/* nombre: ejercicio_32
-autor: maycol andres juarez
-lugar : ITV
-instrucciones: maximo comun divisor
-*/ 
+
 #include<iostream>
 using namespace std;
 
