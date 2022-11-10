@@ -1,8 +1,4 @@
-/* nombre: ejercicio_36
-autor: maycol andres juarez
-lugar : ITV
-instrucciones: pobre asalariado ;[
-*/ 
+ 
 #include<iostream>
 using namespace std;
 
