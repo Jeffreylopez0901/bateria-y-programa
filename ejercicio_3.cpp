@@ -1,8 +1,4 @@
-/* nombre: ejercicio_3
-autor: maycol andres juarez
-lugar : ITV
-instrucciones: indica cual numero es mayor
-*/ 
+
 #include<iostream>
 using namespace std;
 
