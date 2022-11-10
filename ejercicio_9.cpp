@@ -1,8 +1,4 @@
-/* nombre: ejercicio_9
-autor: maycol andres juarez
-lugar : ITV
-instrucciones:  repetir si es 0, sino igual a impar o par
-*/ 
+
 #include<iostream>
 using namespace std;
 
