@@ -1,8 +1,4 @@
-/* nombre: ejercicio_8
-autor: maycol andres juarez
-lugar : ITV
-instrucciones:  saber si el numero es par o impar
-*/ 
+
 #include<iostream>
 using namespace std;
 
