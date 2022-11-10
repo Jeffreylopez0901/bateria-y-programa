@@ -1,8 +1,4 @@
-/* nombre: ejercicio_26
-autor: maycol andres juarez
-lugar : ITV
-instrucciones: multiplicadores
-*/ 
+
 #include<iostream>
 using namespace std;
 
