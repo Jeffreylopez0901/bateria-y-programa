@@ -1,8 +1,4 @@
-/* nombre: ejercicio_42
-autor: maycol andres juarez
-lugar : ITV
-instrucciones: chimba de billetes a lo random hamonos!!!!!
-*/ 
+
 
 #include<iostream>
 using namespace std;
