@@ -1,8 +1,4 @@
-/* nombre: ejercicio_19
-autor: maycol andres juarez
-lugar : ITV
-instrucciones: notas estudiantes
-*/ 
+
 #include<iostream>
 using namespace std;
 
