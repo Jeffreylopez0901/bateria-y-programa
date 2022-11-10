@@ -1,7 +1,7 @@
 /* nombre: ejercicio_10
-autor: maycol andres juarez
+autor:
 lugar : ITV
-instrucciones:  titulado de bachillerato, tieno o no tiene
+instrucciones:  
 */ 
 #include<iostream>
 using namespace std;
