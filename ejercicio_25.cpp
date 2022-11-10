@@ -1,8 +1,4 @@
-/* nombre: ejercicio_25
-autor: maycol andres juarez
-lugar : ITV
-instrucciones: conversion de unidades de medidas
-*/ 
+
 #include<iostream>
 using namespace std;
 
