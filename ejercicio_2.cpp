@@ -1,5 +1,5 @@
 /* nombre: ejercicio_2
-autor: maycol andres juarez
+autor:  Jeffrey josue lopez 
 lugar : ITV
 instrucciones: determina quien es mayor de los valores
 */ 
