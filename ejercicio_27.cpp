@@ -1,8 +1,4 @@
-/* nombre: ejercicio_27
-autor: maycol andres juarez
-lugar : ITV
-instrucciones: aereolineaaaaaaa
-*/ 
+
 #include<iostream>
 using namespace std;
 
