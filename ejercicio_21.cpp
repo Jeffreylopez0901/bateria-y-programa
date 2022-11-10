@@ -1,8 +1,4 @@
-/* nombre: ejercicio_21
-autor: maycol andres juarez
-lugar : ITV
-instrucciones: triangulo
-*/ 
+
 #include<iostream>
 using namespace std;
 
