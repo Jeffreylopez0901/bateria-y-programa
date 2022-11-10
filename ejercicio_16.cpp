@@ -1,8 +1,4 @@
-/* nombre: ejercicio_16
-autor: maycol andres juarez
-lugar : ITV
-instrucciones:  media, max y min
-*/ 
+
 #include<iostream>
 using namespace std;
 
