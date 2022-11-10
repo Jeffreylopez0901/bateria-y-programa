@@ -1,8 +1,4 @@
-/* nombre: ejercicio_17
-autor: maycol andres juarez
-lugar : ITV
-instrucciones:  media de numeros ingresados
-*/ 
+
 #include<iostream>
 using namespace std;
 
