@@ -1,5 +1,5 @@
 /* nombre: ejetrcicio_1
-autor: 
+autor:  Jeffrey josue lopez 
 lugar : ITV
 instrucciones: cambia de lugar ciertos valores
 */ 
