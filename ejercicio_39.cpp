@@ -1,8 +1,3 @@
-/* nombre: ejercicio_39
-autor: maycol andres juarez
-lugar : ITV
-instrucciones: bacno mamalon
-*/ 
 
 #include<iostream>
 using namespace std;
