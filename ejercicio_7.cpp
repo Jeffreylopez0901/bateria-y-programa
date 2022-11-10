@@ -1,8 +1,4 @@
-/* nombre: ejercicio_7
-autor: maycol andres juarez
-lugar : ITV
-instrucciones:  descuento del 15% en productos
-*/ 
+
 #include<iostream>
 using namespace std;
 
