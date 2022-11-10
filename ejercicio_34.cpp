@@ -1,8 +1,4 @@
-/* nombre: ejercicio_34
-autor: maycol andres juarez
-lugar : ITV
-instrucciones: inventario de almacen
-*/ 
+
 #include<iostream>
 using namespace std;
 
