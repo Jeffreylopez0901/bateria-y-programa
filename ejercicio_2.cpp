@@ -1,8 +1,4 @@
-/* nombre: ejercicio_2
-autor:  Jeffrey josue lopez 
-lugar : ITV
-instrucciones: determina quien es mayor de los valores
-*/ 
+
 #include<iostream>
 using namespace std;
 
