@@ -1,8 +1,4 @@
-/* nombre: ejercicio_37
-autor: maycol andres juarez
-lugar : ITV
-instrucciones: prefuntas sobre el algoritmo
-*/ 
+
 
 #include<iostream>
 using namespace std;
