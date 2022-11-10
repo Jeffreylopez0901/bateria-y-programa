@@ -1,8 +1,4 @@
-/* nombre: ejercicio_18
-autor: maycol andres juarez
-lugar : ITV
-instrucciones: fechas!!!!
-*/ 
+
 #include<iostream>
 using namespace std;
 
